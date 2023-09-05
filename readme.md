@@ -1,7 +1,7 @@
 # Unit Converter Calculator
 Live Link : [Unit Converter](https://nagarjuna06.github.io/CodeClause_Unit_Converter/)
 
-The Uni Converter Calculator is a versatile tool that allows you to effortlessly convert units of measurement across various categories including Length, Temperature, Area, Volume, Weight, and Time. Whether you're a student, a professional, or simply someone who frequently deals with different units, this calculator can assist you in quickly and accurately converting values.
+The Unit Converter Calculator is a versatile tool that allows you to effortlessly convert units of measurement across various categories including Length, Temperature, Area, Volume, Weight, and Time. Whether you're a student, a professional, or simply someone who frequently deals with different units, this calculator can assist you in quickly and accurately converting values.
 
 ## Features
 
